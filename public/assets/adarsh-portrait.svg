@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 533" fill="none" role="img" aria-label="Adarsh portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f4f3ff"/>
+      <stop offset="55%" stop-color="#e8e6ff"/>
+      <stop offset="100%" stop-color="#d8d4ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#221DF2"/>
+      <stop offset="100%" stop-color="#4a46f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="533" fill="url(#bg)"/>
+  <circle cx="200" cy="190" r="78" fill="url(#accent)" opacity="0.18"/>
+  <circle cx="200" cy="175" r="62" fill="url(#accent)" opacity="0.35"/>
+  <path d="M95 420c28-58 78-88 105-88s77 30 105 88" fill="url(#accent)" opacity="0.22"/>
+  <text x="200" y="470" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#221DF2" letter-spacing="0.2em">ADARSH</text>
+</svg>
